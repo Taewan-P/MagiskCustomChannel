@@ -8,12 +8,12 @@
     "magisk": {
       "version": "19.4-taewanp",
       "versionCode": "77777",
-      "link": "https://github.com/Taewan-P/MagiskCustomChannel/raw/master/Magisk-v19.4-2019091401-taewanp.zip",
+      "link": "https://github.com/Taewan-P/MagiskCustomChannel/raw/master/Magisk-v19.4-taewanp.zip",
       "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
       "md5": "e41122782af91f125fa464eeaa8c6e98"
     },
     "uninstaller": {
-      "link": "https://github.com/Taewan-P/MagiskCustomChannel/raw/master/Magisk-uninstaller-v19.4-2019091401-taewanp.zip"
+      "link": "https://github.com/Taewan-P/MagiskCustomChannel/raw/master/Magisk-uninstaller-v19.4-taewanp.zip"
     },
     "snet": {
       "versionCode": "13",
